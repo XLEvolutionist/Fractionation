@@ -16,3 +16,5 @@ The script requires a few bits of data to get going, those being:
 [6] The nearest TE to each gene, generated with BEDtools
 [7] The GC content also generated with BEDtools
 [8] Expression data generated used in REnny-Byfield et al. 2014 GBE.
+
+An
