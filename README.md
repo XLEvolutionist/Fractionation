@@ -3,7 +3,7 @@ Fractionation
 
 A long and probably ill organized script used to analyze data from CoGe
 
-This script was sued to generate some statisitcs and figures for the recent PNAS submission. All the code used in that analysis is here, although there is much that was not included in the final draft of the MS. Unfortunately, the script is long and over-burderned with analyses and could really do with being split up into smaller, more easily digeastable chunks.
+This script was used to generate some statisitcs and figures for the recent PNAS submission. All the code used in that analysis is here, although there is much that was not included in the final draft of the MS. Unfortunately, the script is long and over-burderned with analyses and could really do with being split up into smaller, more easily digeastable chunks.
 
 The script requires a few bits of data to get going, those being:
 
@@ -23,6 +23,8 @@ The script requires a few bits of data to get going, those being:
 
 [7] The GC content also generated with BEDtools
 
-[8] Expression data generated used in REnny-Byfield et al. 2014 GBE.
+[8] Expression data generated used in Renny-Byfield et al. 2014 GBE.
 
-An
+It generally runs well, but there are some error messages, but none of these are associated with the data presented in the new Fracrionation paper in review at PNAS.
+
+
